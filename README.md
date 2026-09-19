@@ -4,7 +4,7 @@ Cybersecurity-Lab-Setup
 
 This project documents the setup of a private NAT Network in Oracle VirtualBox for a cybersecurity lab. The network allows virtual machines to communicate with each other and access external networks through VirtualBox NAT.
 
-.## 🎯 Objectives
+## 🎯 Objectives
 
 - Configure a NAT Network in VirtualBox
 - Create a private IPv4 network
