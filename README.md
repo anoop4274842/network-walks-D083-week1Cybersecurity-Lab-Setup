@@ -45,6 +45,7 @@ The importance of documenting technical configurations
 
 Anoop Gangadharan
 Cybersecurity Learner | Offensive Security & VAPT
+https://lnkd.in/p/gRH9hbX3
 
 📌 Project Status
 
